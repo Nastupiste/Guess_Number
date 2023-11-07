@@ -34,7 +34,7 @@ django-admin startproject nastu_site .
 
 ## 4. Editar la configuración básica en settings.py:
 
-    - Hora de nuestra web: EUROPE/Madrid
+    - Hora de nuestra web: Europe/Madrid
     - Lenguaje: es-es
     - Allocated host: '127.0.0.1',
     - Añadir directorio static: STATIC_ROOT = BASE_DIR/ 'static'
